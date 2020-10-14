@@ -35,13 +35,13 @@
 	- кросс-корреляция;
 	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/02.%20Signal%20processing/homework).
 
-03. [Введение в обработку изображений:]()
+03. [Введение в обработку изображений:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/03.%20Image%20processing)
 	- гистограммы изображений;
 	- цветовая коррекция;
 	- пороговое выделение;
 	- морфологические операции;
 	- пирамиды изображений;
-	- [домашнее задание]().
+	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/03.%20Image%20processing/homework).
 
 04. [Глобальные признаки изображений:]()
 	- выделение границ и контуров;
