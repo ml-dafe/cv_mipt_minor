@@ -43,12 +43,12 @@
 	- пирамиды изображений;
 	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/03.%20Image%20processing/homework).
 
-04. [Глобальные признаки изображений:]()
+04. [Глобальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/04.%20Global%20features)
 	- выделение границ и контуров;
 	- характеристики контуров;
 	- матрица смежности;
 	- метрики качества изображений;
-	- [домашнее задание]().
+	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/04.%20Global%20features/homework).
 
 05. [Введение в машинное обучение:]()
 	- линейные модели.
