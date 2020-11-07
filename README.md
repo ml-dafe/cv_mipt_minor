@@ -50,10 +50,10 @@
 	- метрики качества изображений;
 	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/04.%20Global%20features/homework).
 
-05. [Локальные признаки изображений:]()
+05. [Локальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/05.%20Local%20features)
 	- локализация особых точек (Harris, Shi-Tomasi);	
 	- дескрипторы особых точек (SIFT);
-	- [домашнее задание]().
+	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/05.%20Local%20features/homework).
 
 06. [Введение в машинное обучение:]()
 	- линейные модели.
