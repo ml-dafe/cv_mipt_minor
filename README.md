@@ -55,16 +55,13 @@
 	- дескрипторы особых точек (SIFT);
 	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/05.%20Local%20features/homework).
 
-06. [Введение в машинное обучение:]()
-	- линейные модели.
+06. [Введение в машинное обучение:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/06.%20ML%20intro)
+	- основные понятия;
+	- kNN.
 
-07. [Введение в машинное обучение:]()
-	- SVM;
-	- деревья;
-	- boosting;
-	- [домашнее задание]().
-
-
+07. [Введение в машинное обучение:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/07.%20ML%20linear%20models)
+	- линейные модели;
+	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/07.%20ML%20linear%20models/homework).
 
 08. [Параметрические модели:]()
 	- RANSAC;
