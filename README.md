@@ -56,39 +56,22 @@
 	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/05.%20Local%20features/homework).
 
 06. [Введение в машинное обучение:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/06.%20ML%20intro)
-	- основные понятия;
-	- kNN.
+	- основные определения и идеи;
+	- метрики;
+	- алгоритм kNN.
 
 07. [Введение в машинное обучение:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/07.%20ML%20linear%20models)
 	- линейные модели;
 	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/07.%20ML%20linear%20models/homework).
 
-08. [Параметрические модели:]()
-	- RANSAC;
-	- преобразования Хафа для поиска форм;
-	- пайплайн на базе RANSAC и SIFT для совмещения изображений в панорманый снимок;
-	- [домашнее задание]().
-
-09. [Задача сегментации и кластеризации:]()
+08. [Сегментация и кластеризация изображений:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/08.%20Segmentation)
 	- постановка задачи;
-	- метрики качества: IoU, GIoU;
-	- supervised methods (snakes, random walker);
-	- unsupervised methods (Simple Linear Iterative Clustering (SLIC), Felzenszwalb);
-	- [домашнее задание]().
+	- Agglomerative clustering
+	- Mean-shift clustering
+	- метрики качества сегментации: Dice, Jaccard;
+	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/08.%20Segmentation/homework).
 
-10. [Задача классификации:]()
-	- постановка задачи;
-	- метрики качества;
-	- методы решения;
-	- [домашнее задание]().
-
-11. [Задача обнаружения объектов:]()
-	- метод "Мешка слов";
-	- формат Pascal VOCl
-	- метрика качества AP;
-	- [домашнее задание]().
-
-12. [Обработка оптических потоков:]()
+09. [Обработка оптических потоков:]()
 	- оптические потоки;
 	- фильтр калмана;
 	- задача оценки параметров движения в оптическом потоке;
