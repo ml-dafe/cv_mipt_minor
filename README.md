@@ -1,4 +1,4 @@
-# Факультатив "Введение в компьютерное зрение"
+# Факультатив "Компьютерное зрение"
 
 **Описание:** Вы когда-нибудь задумывались, как роботы могут ориентироваться в пространстве и выполнять свои задачи, как поисковые системы могут индексировать миллиарды изображений и видео, как алгоритмы могут диагностировать медицинские изображения на предмет заболеваний, как автомобили с автоматическим управлением могут видеть и управлять автомобилем безопасно, или как Instagram создает фильтры?
 
@@ -6,7 +6,7 @@
 
 **Продолжительность:** 1 семестр.
 
-**Интенсивность занятий:** 1-2 пары в неделю.
+**Интенсивность занятий:** 2 пары в неделю.
 
 **Содержание:** Классические методы обработки изображений, решение задач: классификации, распознавания и оценки параметров движения в видеопотоке.
 
@@ -17,66 +17,16 @@
 
 # Программа курса:
 
-00. [Вводное занятие:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/00.%20Introduction)
+00. [Вводное занятие:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_00_introduction)
 	- введение в область Computer vision;
 	- основные задачи и направления.
 
-01. [Формирование изображений. Основные понятия:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/01.%20Images)
+01. [Формирование изображений. Основные понятия:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_01_images)
 	- представление изображений в компьютере;
 	- работа с цветом;
 	- аффинные преобразования;
 	- знакомство с библиотеками cv2, skimage;
 	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/01.%20Images/homework).
-
-02. [Введение в обработку сигналов:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/02.%20Signal%20processing)
-	- частотная область, преобразование Фурье;
-	- спектральный анализ;
-	- свертки, фильтры;
-	- кросс-корреляция;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/02.%20Signal%20processing/homework).
-
-03. [Введение в обработку изображений:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/03.%20Image%20processing)
-	- гистограммы изображений;
-	- цветовая коррекция;
-	- пороговое выделение;
-	- морфологические операции;
-	- пирамиды изображений;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/03.%20Image%20processing/homework).
-
-04. [Глобальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/04.%20Global%20features)
-	- выделение границ и контуров;
-	- характеристики контуров;
-	- матрица смежности;
-	- метрики качества изображений;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/04.%20Global%20features/homework).
-
-05. [Локальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/05.%20Local%20features)
-	- локализация особых точек (Harris, Shi-Tomasi);	
-	- дескрипторы особых точек (SIFT);
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/05.%20Local%20features/homework).
-
-06. [Введение в машинное обучение:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/06.%20ML%20intro)
-	- основные определения и идеи;
-	- метрики;
-	- алгоритм kNN.
-
-07. [Введение в машинное обучение:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/07.%20ML%20linear%20models)
-	- линейные модели;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/07.%20ML%20linear%20models/homework).
-
-08. [Сегментация и кластеризация изображений:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/08.%20Segmentation)
-	- постановка задачи;
-	- Agglomerative clustering
-	- Mean-shift clustering
-	- метрики качества сегментации: Dice, Jaccard;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/08.%20Segmentation/homework).
-
-09. [Обработка оптических потоков:]()
-	- оптические потоки;
-	- фильтр калмана;
-	- задача оценки параметров движения в оптическом потоке;
-	- задача сопровождения объектов в оптическом потоке.
-
 
 ## Перечень библиотек
 
