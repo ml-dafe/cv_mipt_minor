@@ -26,7 +26,7 @@
 	- работа с цветом;
 	- аффинные преобразования;
 	- знакомство с библиотеками cv2, skimage;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/01.%20Images/homework).
+	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_01_images/homework).
 
 ## Перечень библиотек
 
