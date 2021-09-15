@@ -2,4 +2,5 @@ scikit-image
 scikit-learn
 matplotlib
 numpy
-opencv-python==4.3.0.36
+opencv-python==4.5.2
+opencv-contrib-python>==4.5.2
