@@ -22,11 +22,29 @@
 	- основные задачи и направления.
 
 01. [Формирование изображений. Основные понятия:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_01_images)
-	- представление изображений в компьютере;
-	- работа с цветом;
-	- аффинные преобразования;
-	- знакомство с библиотеками cv2, skimage;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_01_images/homework).
+    - представление изображений в компьютере;
+    - работа с цветом;
+    - аффинные преобразования;
+    - знакомство с библиотеками cv2, skimage;
+    - [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_01_images/homework).
+
+
+02. [Изображение в виде сигнала:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_02_signals)
+    - представление изображений в компьютере;
+    - работа с цветом;
+    - аффинные преобразования;
+    - знакомство с библиотеками cv2, skimage;
+    - [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_02_signals/homework).
+
+
+3. [Предобработка изображений:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_03_processing):
+   - гистограммы изображений;
+   - цветовая коррекция;
+   - пороговое выделение;
+   - морфологические операции;
+   - пирамиды изображений;
+   - [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_03_processing/homework).
+
 
 ## Перечень библиотек
 
