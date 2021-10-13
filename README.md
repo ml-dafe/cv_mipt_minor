@@ -45,6 +45,14 @@
    - пирамиды изображений;
    - [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_03_processing/homework).
 
+4. [Глобальные признаки изображений](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_04_global_features):
+
+- матрица смежности и текстурные признаки;
+- выделение границ и контуров;
+- контурные признаки;
+- контураные признаки;
+- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_04_global_features/homework).
+
 
 ## Перечень библиотек
 
