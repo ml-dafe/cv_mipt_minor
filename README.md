@@ -53,6 +53,13 @@
 - контураные признаки;
 - [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_04_global_features/homework).
 
+5. [Глобальные признаки изображений](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_05_local_features):
+
+- особые точки и их поиск;
+- детекторы Харриса и Моравица;
+- дескрипторы особых точек на примере SIFT;
+- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_05_local_features/homework).
+
 
 ## Перечень библиотек
 
