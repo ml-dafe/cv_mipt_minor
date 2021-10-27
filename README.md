@@ -61,6 +61,13 @@
 - [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_05_local_features/homework).
 
 
+6. [Введние в ML](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_06_ml_intro):
+
+- метрики;
+- kNN;
+- линейная модель для регрессии.
+
+
 ## Перечень библиотек
 
 Можно взять [`requirements.txt`](https://github.com/ml-dafe/cv_mipt_minor/blob/master/requirements.txt) из репозитория или установить следующие пакеты:

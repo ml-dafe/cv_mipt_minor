@@ -2,5 +2,6 @@ scikit-image
 scikit-learn
 matplotlib
 numpy
+pandas
 opencv-python==4.5.2
 opencv-contrib-python>==4.5.2
