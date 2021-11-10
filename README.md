@@ -73,14 +73,16 @@
 - метрики;
 - kNN;
 - SVM;
-- логистическая регрессия.
+- логистическая регрессия;
+- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_07_classification/homework).
 
 
 8. [Кластеризация и сегментация на изображениях](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_08_segmentation):
 
 - иерархическая кластеризация;
 - mean-shift;
-- метрики IoU/Dice.
+- метрики IoU/Dice;
+- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_08_segmentation/homework).
 
 
 
