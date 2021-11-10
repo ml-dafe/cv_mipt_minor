@@ -68,6 +68,22 @@
 - линейная модель для регрессии.
 
 
+7. [Классификация](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_07_classification):
+
+- метрики;
+- kNN;
+- SVM;
+- логистическая регрессия.
+
+
+8. [Кластеризация и сегментация на изображениях](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_08_segmentation):
+
+- иерархическая кластеризация;
+- mean-shift;
+- метрики IoU/Dice.
+
+
+
 ## Перечень библиотек
 
 Можно взять [`requirements.txt`](https://github.com/ml-dafe/cv_mipt_minor/blob/master/requirements.txt) из репозитория или установить следующие пакеты:
