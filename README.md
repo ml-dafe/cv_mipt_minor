@@ -17,11 +17,11 @@
 
 # Программа курса:
 
-00. [Вводное занятие:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_00_introduction)
+0. [Вводное занятие:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_00_introduction)
 	- введение в область Computer vision;
 	- основные задачи и направления.
 
-01. [Формирование изображений. Основные понятия:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_01_images)
+1. [Формирование изображений. Основные понятия:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_01_images)
     - представление изображений в компьютере;
     - работа с цветом;
     - аффинные преобразования;
@@ -29,7 +29,7 @@
     - [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_01_images/homework).
 
 
-02. [Изображение в виде сигнала:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_02_signals)
+2. [Изображение в виде сигнала:](https://github.com/ml-dafe/cv_mipt_minor/tree/master/week_02_signals)
     - представление изображений в компьютере;
     - работа с цветом;
     - аффинные преобразования;
